@@ -2,8 +2,8 @@
   "files": {
     "main.js": "/KataEcom-React/static/js/main.07529ed8.chunk.js",
     "main.js.map": "/KataEcom-React/static/js/main.07529ed8.chunk.js.map",
-    "runtime-main.js": "/KataEcom-React/static/js/runtime-main.413428ae.js",
-    "runtime-main.js.map": "/KataEcom-React/static/js/runtime-main.413428ae.js.map",
+    "runtime-main.js": "/KataEcom-React/static/js/runtime-main.d65fbbdb.js",
+    "runtime-main.js.map": "/KataEcom-React/static/js/runtime-main.d65fbbdb.js.map",
     "static/css/2.75701be9.chunk.css": "/KataEcom-React/static/css/2.75701be9.chunk.css",
     "static/js/2.0af709f9.chunk.js": "/KataEcom-React/static/js/2.0af709f9.chunk.js",
     "static/js/2.0af709f9.chunk.js.map": "/KataEcom-React/static/js/2.0af709f9.chunk.js.map",
@@ -19,8 +19,8 @@
     "static/js/7.c0fd5b9c.chunk.js.map": "/KataEcom-React/static/js/7.c0fd5b9c.chunk.js.map",
     "static/js/8.1d57734e.chunk.js": "/KataEcom-React/static/js/8.1d57734e.chunk.js",
     "static/js/8.1d57734e.chunk.js.map": "/KataEcom-React/static/js/8.1d57734e.chunk.js.map",
-    "static/js/9.25a1bcc6.chunk.js": "/KataEcom-React/static/js/9.25a1bcc6.chunk.js",
-    "static/js/9.25a1bcc6.chunk.js.map": "/KataEcom-React/static/js/9.25a1bcc6.chunk.js.map",
+    "static/js/9.8b8a9079.chunk.js": "/KataEcom-React/static/js/9.8b8a9079.chunk.js",
+    "static/js/9.8b8a9079.chunk.js.map": "/KataEcom-React/static/js/9.8b8a9079.chunk.js.map",
     "index.html": "/KataEcom-React/index.html",
     "static/css/2.75701be9.chunk.css.map": "/KataEcom-React/static/css/2.75701be9.chunk.css.map",
     "static/js/2.0af709f9.chunk.js.LICENSE.txt": "/KataEcom-React/static/js/2.0af709f9.chunk.js.LICENSE.txt",
@@ -28,7 +28,7 @@
     "static/media/index.css": "/KataEcom-React/static/media/poppins-latin-ext-400-normal.4f38b433.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.413428ae.js",
+    "static/js/runtime-main.d65fbbdb.js",
     "static/css/2.75701be9.chunk.css",
     "static/js/2.0af709f9.chunk.js",
     "static/js/main.07529ed8.chunk.js"
