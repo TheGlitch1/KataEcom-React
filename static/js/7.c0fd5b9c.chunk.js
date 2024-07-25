@@ -1,0 +1,2 @@
+(this["webpackJsonpkataecom-react"]=this["webpackJsonpkataecom-react"]||[]).push([[7],{40:function(t,c,e){"use strict";e.r(c);e(2);var s=e(15),a=e(1);c.default=()=>Object(a.jsxs)("main",{children:[Object(a.jsx)(s.m,{}),Object(a.jsx)(s.t,{}),Object(a.jsx)(s.g,{})]})}}]);
+//# sourceMappingURL=7.c0fd5b9c.chunk.js.map
